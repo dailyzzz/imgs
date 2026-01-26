@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[7852,["500","static/chunks/500-b84d19d842172eba.js","772","static/chunks/772-11165c89bdb8cf53.js","202","static/chunks/app/image/%5Bid%5D/page-a97312105fbcbe10.js"],"ImagePageClient"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"HwirP9wPNHV_gOqk-z8Xo","rsc":["$","$1","c",{"children":[["$","$L2",null,{"image":{"id":"gravity-1","title":"Gravity 1","category":"gravity","categoryDisplay":"Gravity","src":"/images/gallery/gravity/1080.jpeg","description":"Image split showing water surface with reflections at top and satellite in space at bottom, text reads 'Meanwhile At the Equator' with FlatEarth101.com watermark"},"prevImage":null,"nextImage":{"id":"gravity-2","title":"Gravity 2","category":"gravity","categoryDisplay":"Gravity","src":"/images/gallery/gravity/10802.jpeg","description":"Upside down photo of Sydney harbor with Opera House and Harbor Bridge flipped, text reads 'RESEARCH FLAT EARTH' with FlatEarth101.com watermark"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
